@@ -1,4 +1,8 @@
+# local package install
+-e .
+
 dvc
 dvc[gdrive]
 pandas
 sklearn
+yaml
